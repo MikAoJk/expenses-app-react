@@ -1,0 +1,3 @@
+interface ExpensesProps {
+    items:  ExpenseItemProps[]
+}
