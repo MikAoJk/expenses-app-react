@@ -1,4 +1,4 @@
-[![build main branch](https://github.com/MikAoJk/expenses-app-react/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MikAoJk/react-complete-guide/actions/workflows/build.yml)
+[![build main branch](https://github.com/MikAoJk/expenses-app-react/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MikAoJk/expenses-app-react/actions/workflows/build.yml)
 
 # Getting Started with Create React App
 
